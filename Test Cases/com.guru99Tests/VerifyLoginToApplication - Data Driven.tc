@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyLoginToApplication - Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a92cc30-d3ee-48de-a254-20e2c72a0184</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e19e23e-0555-4490-a544-4a0728c9c147</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20772644-977b-4eda-b96b-cae32640f9f9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
